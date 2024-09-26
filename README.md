@@ -67,7 +67,7 @@ After cleaning the data, multiple models are tested to predict house prices. The
 After trying all models, **Random Forest** gave the best results after hyperparameter tuning. Other models were evaluated but did not perform as well.
 
 #### b. Hyperparameter Tuning
-Grid search and other techniques were used to fine-tune the Random Forest model to achieve optimal performance. The hyperparameters, such as the number of trees, maximum depth, and other settings, were adjusted.
+Bayesian search and other techniques were used to fine-tune the Random Forest model to achieve optimal performance. The hyperparameters, such as the number of trees, maximum depth, and other settings, were adjusted.
 
 ### 3. Model Evaluation
 
